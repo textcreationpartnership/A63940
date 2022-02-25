@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The several speeches of Sr. Edward Turner Kt., speaker of the honourable House of Commons, to the King's Most Excellent Majesty, delivered on Fryday, the tenth day of May, 1661</title>
+            <author>Turnor, Edward, Sir, 1617-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63940</idno>
+            <idno type="STC">Wing T3349</idno>
+            <idno type="STC">ESTC R1904</idno>
+            <idno type="EEBO-CITATION">12242531</idno>
+            <idno type="OCLC">ocm 12242531</idno>
+            <idno type="VID">56829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The several speeches of Sr. Edward Turner Kt., speaker of the honourable House of Commons, to the King's Most Excellent Majesty, delivered on Fryday, the tenth day of May, 1661</title>
+                  <author>Turnor, Edward, Sir, 1617-1676.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56829:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <p>The ſeveral SPEECHES OF Sr. EDWARD TURNER Kt.</p>
+            <p>
+               <hi>Speaker of the honourable Houſe of Commons, to the KING</hi>'S <hi>moſt excellent Ma<g ref="char:EOLhyphen"/>jesty, delivered on Fryday the tenth day of May,</hi> 1661.</p>
+            <figure>
+               <figDesc>regal crown</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Iohn Williams,</hi> at the ſign of the <hi>Crown</hi> in S. <hi>Paul</hi>'s Churchyard. 1661.</p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:56829:2"/>
+            <!-- PDF PAGE 63 -->
+            <pb n="3" facs="tcp:56829:2"/>
+            <!-- PDF PAGE 63 -->
+            <opener>
+               <salute>May it pleaſe your moſt excellent Majeſty.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Knights, Citizens, &amp; Burgeſſes of the Com<g ref="char:EOLhyphen"/>mons Houſe of Parlia<g ref="char:EOLhyphen"/>ment being there aſſem<g ref="char:EOLhyphen"/>bled by virtue of your Majeſties moſt gracious Writ, have bin pleaſed (I dare not ſay to chooſe, but) to name me their Speaker.</p>
+            <p>It is an undoubted priviledge of e<g ref="char:EOLhyphen"/>very Member in that Houſe, to be heard ſpeak, much more when he ſpeaks for, or againſt himſelf. But Sir, whether more out of favour to me, or injury to themſelves, I cannot tell, they were not pleaſed to hear, at leaſt they would not accept my juſt Apology and Excuſe from this Service.</p>
+            <p>Therefore from this their Judge<g ref="char:EOLhyphen"/>ment, if I muſt call it ſo, I doe moſt humbly appeal to your Soveraign Ju<g ref="char:EOLhyphen"/>ſtice, beſeeching your Majeſty for the errours that are too viſible &amp; apparent in their Proceedings, that you will re<g ref="char:EOLhyphen"/>view and reverſe the ſame.</p>
+            <pb n="4" facs="tcp:56829:3"/>
+            <!-- PDF PAGE 64 -->
+            <p>My inexperience in the Cuſtomes and Orders of the Houſe, my inability to collect their fence and ſtate the Que<g ref="char:EOLhyphen"/>ſtions riſing upon long and arduous Debates, do juſtly render me unfit, and therefore unworthy of this weighty imployment.</p>
+            <p>Your Majeſty well knowes, when a Ship puts forth to Sea ſhe ſhould be provided with Mariners of all ſorts; in caſe a Storm doth ariſe, ſome muſt trimme and lore the ſails, ſome muſt watch aloft the Decks, ſome muſt work at the Pump, but he had need be a ve<g ref="char:EOLhyphen"/>ry good Sea man that is the Pilot. Sir, I hope I may be uſefull to this your So<g ref="char:EOLhyphen"/>veraign Veſſel in ſome of theſe inferior places, but I dare not undertake to be their Steerſman.</p>
+            <p>I do moſt humbly therefore be<g ref="char:EOLhyphen"/>ſeech your Majeſty, that you will not take us at our firſt word, our ſecond thoughts are beſt, pray therefore be pleaſed to command the Members of the Houſe of Commons to return into their Houſe, to recollect themſelves, &amp; to preſent your Majeſty with a better choice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="5" facs="tcp:56829:3"/>
+            <!-- PDF PAGE 64 -->
+            <head>THE SECOND SPEECH, AFTER THE LORD CHANCELLOR Had declar'd the KING's Approbation of the Choice of the Houſe of COMMONS.</head>
+            <p>
+               <hi>HE that knows his Maſters Will, and doth it not, is worthy to be beaten with many ſtripes:</hi> I ſhall therefore hum<g ref="char:EOLhyphen"/>bly and cheerfully, to the beſt of my poor skill and knowledge, apply my ſelf to the performance of my Duty; not doubting therein to obtain Your Majeſties Gracious Pardon for all involuntary Tranſgreſſions; for 'tis a Rule in Law, and in Conſcience too: <hi>Actus non facit reum, niſi mens ſit rea.</hi>
+            </p>
+            <p>And ſince I have found this Favour in the ſight of my Lord the King, pray let me beg Your Majeſties patience for a while, to make a ſtand, and from this place to look about me: Sir, a weak head is ſoon giddy, but the ſtrongeſt brain may here be turn'd; the Pre<g ref="char:EOLhyphen"/>ſence of this Glory, and the Glory of this Preſence, do tranſport me: whilſt I con<g ref="char:EOLhyphen"/>template the incomparable beauty of this
+<pb n="6" facs="tcp:56829:4"/>
+               <!-- PDF PAGE 65 -->Body Politick, and the goodly Order of this High Court of Parliament, where at once I behold all the glory of this Nation, I am almoſt in the condition of St. <hi>Paul,</hi> when he was taken up into the third Hea<g ref="char:EOLhyphen"/>vens, all he could ſay upon his return, was, <hi>He ſaw things unutterable.</hi>
+            </p>
+            <p>God, that made all things for the uſe of Man, and made him Governor over all his Works, thought it not fit to leave him to himſelf; nor to live without a Law and Go<g ref="char:EOLhyphen"/>vernment. The Forms and Species of Go<g ref="char:EOLhyphen"/>vernments are various, <hi>Monarchicall, Ariſto<g ref="char:EOLhyphen"/>craticall,</hi> and <hi>Democraticall;</hi> but the firſt is certainly the beſt, as being neareſt to Divi<g ref="char:EOLhyphen"/>nity it ſelf. <hi>Aristocracy</hi> is ſubject to degene<g ref="char:EOLhyphen"/>rate and run into Faction; but <hi>Democracy</hi> naturally runs into Confuſion: then every man becomes a Tyrant over his Neighbor, <hi>Homo Homini Lupus: Homo Homini Daemon.</hi>
+            </p>
+            <p>This famous Iſland, Hiſtorians tell us, was firſt Inhabited by the <hi>Brittains,</hi> then by the <hi>Romans,</hi> then by the <hi>Saxons,</hi> then by the <hi>Danes,</hi> then by the <hi>Normans;</hi> and during all theſe Succeſſions of Ages, and variety of Changes, though there was ſometimes <hi>Di<g ref="char:EOLhyphen"/>viſum Imperium,</hi> yet every Diviſion was hap<g ref="char:EOLhyphen"/>py under a Monarchical Government.</p>
+            <pb n="7" facs="tcp:56829:4"/>
+            <!-- PDF PAGE 65 -->
+            <p>Since the Entrance of the <hi>Norman</hi> Race 25 Kings &amp; Queens famous in their generations, from whom Your ſacred Majeſty is lineally deſcended, have ſwayed the Royal Scepter of this Nation.</p>
+            <p>The <hi>Children of Iſrael,</hi> when they were in the Wil<g ref="char:EOLhyphen"/>derneſs, though they were fed with Gods own hand, and <hi>ate the food of Angels,</hi> yet they ſurfeited, and murmured, and rebelled againſt <hi>Moſes.</hi>
+            </p>
+            <p>The ſame unthankfull ſpirit dwelt in this Nation for divers years laſt paſt; the men of that Age were weary of the Government, though it was refined to the wonder and envy of all other Nations: they quarrelled with our <hi>Moſes,</hi> becauſe he was <hi>the Lords Anointed; Nolumus hunc regnare,</hi> was their firſt quarrel; but levelling Parity and Confuſion follow<g ref="char:EOLhyphen"/>ed, then tyranny &amp; uſurpation was the Concluſion.</p>
+            <p>We read of the Emperor <hi>Adrian,</hi> when he lay a dying, he complained that many Phyſitians had de<g ref="char:EOLhyphen"/>ſtroyed him; meaning, that their contrary Con<g ref="char:EOLhyphen"/>ceits and different Directions for his Recovery, had haſtened his Death.</p>
+            <p>So it was with us, we were ſick of <hi>Reformation;</hi> our <hi>Reformers</hi> were of all Ages, Sexes, and De<g ref="char:EOLhyphen"/>grees, of all Profeſſions and Trades: <hi>The very Cobler went beyond his Laſt:</hi> Theſe new <hi>States-men</hi> took upon them to Regulate and Govern our Go<g ref="char:EOLhyphen"/>vernours: This was the Sickneſſe and Plague of the Nation: Their new Laws were all written in bloudy Letters, the cruelty of their Tribunals made
+<pb n="8" facs="tcp:56829:5"/>
+               <!-- PDF PAGE 66 -->the <hi>Judgement Seat</hi> little differ from a <hi>Slaughter houſe:</hi> The Rich man was made an Offendor for a word, Poor men were ſold for Slaves, as the <hi>Turks</hi> ſell Heads, twenty for an <hi>Aſper:</hi> Yet for all this Villany there was at length found a <hi>Protector.</hi>
+            </p>
+            <p>No amendment at length would ſerve theſe <hi>Reformers</hi> turns; no Conceſſions, though the moſt Gracious that could be imagined, would ſatisfie theſe Uſurpers; but <hi>Root and Branch,</hi> all muſt go; our late Sovereign Lord, of bleſſed memory, muſt be offered up a Sacrifice to their Luſts; Your ſacred Perſon (Great Sir) proſcribed, and all the Royal Family exiled: Monarchy it ſelf was voted burthen<g ref="char:EOLhyphen"/>ſome; &amp; therefore they muſt try a Commonwealth, and the better to digeſt it, the People were intoxica<g ref="char:EOLhyphen"/>ted with a belief that they ſhould all like themſelves be Princes in their turns.</p>
+            <p>Amongſt the <hi>Perſians,</hi> after the death of their Governor, there was uſed to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a five dayes Lawleſſ<g ref="char:EOLhyphen"/>neſſe, in which time every man might do what he liſted: during thoſe five dayes there was ſuch killing and robbing, and deſtroying one another, that before they were ended, the People longed again for their old Government.</p>
+            <p>After the death of Your Majeſties moſt Royal Father, here was the like Licentiouſneſs; but alas, it continued more than twice five yeares: Liberty they called it, but it was <hi>Libertas quidlibet audendi.</hi> Your Loyal Subjects were a Prey to Wolves and Tygres, and to the moſt cruel of all Beaſts, unreaſonable men: every man did what ſeemed good in his own eyes, for in thoſe daies there was no King in our <hi>Iſrael.</hi>
+            </p>
+            <pb n="9" facs="tcp:56829:5"/>
+            <!-- PDF PAGE 66 -->
+            <p>But as the former Spirit of Reformation at firſt brought us into this miſery; ſo the ſpi<g ref="char:EOLhyphen"/>rit of giddineſs which God ſent amongſt our Reformers, at length cured us. The brazen Serpent was the beſt cure for thoſe that were bitten by the fiery Serpent: the diviſions and ſubdiviſions of thoſe that exerciſed dominion over us, weakened their own power, and ſtirred up the hearts, and ſtrengthned the hands of your loyal Subjects, to reſtore our ancient Go<g ref="char:EOLhyphen"/>vernment, and to bring your Sacred Majeſty back to your Royal Throne in peace, as to the joy of all our hearts we ſee it is this day.</p>
+            <p>This was the work of God alone, and it is ad<g ref="char:EOLhyphen"/>mirable in our eyes. And as we have cauſe at all times to bleſs God that he hath thus brought your Majeſty to your People; ſo we have juſt cauſe at this time to return our hearty thanks unto your Majeſty, that you have thus brought your People to your Self.</p>
+            <p>The Sun exhales the vapours from the earth, and then ſends them down again in ſhowres of plenty: So we to our great joy, do find that our obedience and affection to your Majeſty are re<g ref="char:EOLhyphen"/>turned upon our heads in plenty, peace and protection.</p>
+            <p>The laſt meeting here in Parliament was hap<g ref="char:EOLhyphen"/>py in healing the bleeding wounds of this Na<g ref="char:EOLhyphen"/>tion; they were bleſſed alſo, even for their Works ſake, your ſacred Majeſty did bleſs them,
+<pb n="10" facs="tcp:56829:6"/>
+               <!-- PDF PAGE 67 -->and therefore they ſhall be bleſſed to all poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <p>But Sir we hope you have a bleſsing left for us too: That was your Parliament by Adopti<g ref="char:EOLhyphen"/>on, but this is yours by Birth-right; this Parli<g ref="char:EOLhyphen"/>ament is Free-born: <hi>I</hi> hope this honour will beget in us an Emulation to exceed the acti<g ref="char:EOLhyphen"/>ons of our Predeceſſors, and not only to meet your Majeſty as our Soveraign, with the duty of Subjects, but with the love of Sons to a moſt indulgent Father.</p>
+            <p>Next to the glory of your Majeſties Royal Throne, I cannot but obſerve the brightneſs of this — ſecond orb, this Firmament is richly deckt with Stars of ſeveral magnitudes, each ſtar appears like the morning-ſtar, and yet each ſtar differs from another in glory.</p>
+            <p>You cannot want Commanders, either by Sea or Land, to manage your deſigns, whileſt all theſe Sons of <hi>Mars</hi> ſtand candidate to ſerve you in the wars.</p>
+            <p>You cannot want Counſellors to adviſe you in the great affairs of the Nation, whileſt all theſe Senators, each fit to be a Conſul, con<g ref="char:EOLhyphen"/>tend who ſhall moſt eaſe you in the thorny cares of the Government.</p>
+            <p>Amidſt theſe Noble Engliſh Barons, and at your Majeſties feet are placed the Reverend Judges of the Land, the Sages of the Law, Men ſo learned and expert in the Cuſtoms, and ſta<g ref="char:EOLhyphen"/>tutes of this land, that if <hi>Wat Tyler,</hi> or <hi>Jack Cade,</hi>
+               <pb n="11" facs="tcp:56829:6"/>
+               <!-- PDF PAGE 67 -->or the new Phanaticks of this latter age had bur<g ref="char:EOLhyphen"/>ned our books, they were able to reſtore our laws in purity and perfection.</p>
+            <p>And next to theſe, though in a lower Orbe, appear the worthy Knights, the prudent Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes of the Houſe of Commons, being the third eſtate of Parliament.</p>
+            <p>When the fame of <hi>Solomons</hi> wiſdom had filled the neighbour Nations, the Queen of <hi>Sheba</hi> could not contain her ſelf at home, but with ma<g ref="char:EOLhyphen"/>ny <hi>Camels</hi> laded with Spices, with Gold and pre<g ref="char:EOLhyphen"/>tious ſtones in abundance, ſhe comes to <hi>Salomon</hi> to commune with him of all that was in her heart. Great Sr. whileſt this your native Countrey was unworthy of you, forreign Nations were made happy in the knowledge of your Perſon, your piety and your wiſdome: And now the Lord our God hath brought you home, and ſet you on your Throne, your Subjects long to ſee you.</p>
+            <p>What ſtriving and rejoycing was there at your firſt landing, to ſee our riſing Sun?</p>
+            <p>What ſtriving was there at your Coronation to ſee the Imperial Crown ſet upon your Roy<g ref="char:EOLhyphen"/>all head?</p>
+            <p>What ſtriving hath here lately been, in all the Counties, Cities and Burroughs of this Na<g ref="char:EOLhyphen"/>tion, who ſhould be ſent up to hear your wiſ<g ref="char:EOLhyphen"/>dom, and confer with you in Parliament?</p>
+            <p>Royall Sr. theſe choſen worthy Meſſengers are not come empty handed, they are laden, they are ſent up to you, heavy laden, from their ſeveral Counties, Cities and Burroughs.</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
